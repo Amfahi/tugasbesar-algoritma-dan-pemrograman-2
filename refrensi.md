@@ -1,0 +1,1 @@
+Dokumentasi Resmi Bahasa Pemrograman Go. The Go Programming Language Documentation. Tersedia di: https://go.dev/doc/. Digunakan sebagai referensi sintaks, struktur program, fungsi bawaan, serta praktik implementasi bahasa Go.
